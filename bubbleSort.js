@@ -1,6 +1,7 @@
-// bubble sort
+// bubble sort (ascending)
 // time complexity O(n)
 // space complexity O(1)
+
 let array = [50, 40, 60, 10, 1, 2]
 var temp
 
